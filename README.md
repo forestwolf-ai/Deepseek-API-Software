@@ -4,7 +4,8 @@
 
 运行依赖库如下：
 
-Python
+```Python
 
 pip install customtkinter cryptography bcrypt openai pyperclip pillow pystray flask flask-socketio flask-cors pyttsx3 SpeechRecognition reportlab
 
+```
